@@ -1,3 +1,6 @@
+# 测试地址： [m.alemon.xyz].(m.alemon.xyz)
+
+
 # vue-shop
 
 ## Project setup
